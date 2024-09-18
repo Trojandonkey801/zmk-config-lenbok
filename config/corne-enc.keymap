@@ -95,7 +95,7 @@
    &mt LSHFT LPAR   &kp Z    &kp X      &kp C          &kp V    &kp B       &kp N    &kp M     &kp COMMA &kp DOT  &kp FSLH  &mt RSHFT RPAR
                              &kp C_PP   &mt LALT ESC   &kp RET  &mo LWR     &mo RSE  &kp SPACE &kp RCTL  &none
                         >;
-                        sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
+                        sensor-bindings = <&inc_dec_kp A B>;
                         label = "Default";
                 };
                 lower_layer {
